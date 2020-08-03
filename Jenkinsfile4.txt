@@ -8,7 +8,7 @@ pipeline {
             }
         }
 
-        stage('If Proceed is clicked') {
+        stage('Next Step') {
             steps {
                 print('hello')
             }
